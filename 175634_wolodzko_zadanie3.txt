@@ -1,0 +1,1 @@
+Położenie drona jest obarczone błędem więc lepszym sposobem byłoby skorzystać z aproksymacji, w wypadku interpolacji wynik byłby dopasowany do węzłów a one odbiegają od rzeczywistych wartości.

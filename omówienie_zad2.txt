@@ -1,0 +1,1 @@
+Interpolacja trygonometryczna zbiega się, lecz interpolacją wielomianowa niestety nie, jest niestabilna. Interpolacją trygonometryczna jest dokładniejsza bo przy zwiększeniu ilości punktów zawsze skutkuje rozwiązaniem dokładniejszym niż poprzedni.

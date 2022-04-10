@@ -1,0 +1,1 @@
+Dla interpolacji wielomianowej wraz z większą wartością K zwiększ się dokładność funkcji to samo dla interpolacji trygonometrycznej, niestety przy interpolacji wielomianowej widać, że pogarszają się krańce przedziałów - efekt Rungego.
